@@ -7,6 +7,11 @@ We need to:
 1) Analyze and clean the data;
 2) Build a model that will be able predict which passengers survived the Titanic shipwreck. 
 
+## Main aspects
+
+- high % of survivors have 1st class ticket;
+- 
+
 ## Conclusion
 The best result is shown by the **XGBClassifier**.
 
