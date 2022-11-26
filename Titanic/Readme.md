@@ -9,8 +9,7 @@ We need to:
 
 ## Main aspects
 
-- high % of survivors have 1st class ticket;
-- 
+1) During the data analys I've found the  
 
 ## Conclusion
 The best result is shown by the **XGBClassifier**.
